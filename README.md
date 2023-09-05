@@ -7,6 +7,9 @@ The Windsor-Essex region is home to thousands of small businesses, including tho
 
 Mappy is a web application that focuses on informing the residents within the Windsor-Essex region of the many strong, capable local businesses all around them. Through the use of powerful tools such as Mapbox and Google Firebase, Mappy provides key information in a visually appealing format regarding these small businesses.
 
+### Demo ###
+A demo video for this web application can be found [here](https://www.youtube.com/watch?v=_Cm53EYkXLY).
+
 ## The Team
 Mappy was built by: [Haris Kamal](https://github.com/HarisK03), [Sam Assareymuriyil](https://github.com/SamAssareymuriyil), and [Neil Patel](https://github.com/Neil-25).
 
